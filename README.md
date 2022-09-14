@@ -1,5 +1,7 @@
 Sample repo that shows a problem where `fireEvent.animationEnd` does not work for a preact component.
 
+See also https://github.com/testing-library/preact-testing-library/issues/67
+
 To reproduce 
 
 ```
